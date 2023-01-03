@@ -1,3 +1,3 @@
 # QuotesApp
 
-An Angular application for starting out project development 
+Displays randomised Quotes from the pile of quotes that have been feeded in. 
